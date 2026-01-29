@@ -11,3 +11,4 @@ l'accès à des données sensibles.
 Cette veille m'a permis de comprendre l'importance
 des politiques de mots de passe forts et de
 l'authentification multifacteur.
+
