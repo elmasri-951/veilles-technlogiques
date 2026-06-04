@@ -1,0 +1,39 @@
+# Cyberattaques en France : bilan 2025
+
+## Date de veille
+Juin 2025
+
+## Sources
+- franceinfo.fr — https://www.franceinfo.fr
+- mia-app.co — https://www.mia-app.co/blog/posts/retrospective-2025-des-cyberattaques-en-france
+- cyber-cover.fr — https://www.cyber-cover.fr
+
+## Résumé
+En 2025, plus de 17 600 cyberattaques ciblant des systèmes informatiques ont 
+été enregistrées en France, soit une hausse de 4% par rapport à 2024. 
+Aucun secteur n'est épargné : ministères, hôpitaux, entreprises privées 
+et collectivités locales sont tous touchés.
+
+Parmi les incidents marquants :
+- **France Travail** : 3 attaques majeures en 2025 → 340 000 demandeurs 
+  d'emploi compromis, puis 1,6 million de jeunes exposés via les Missions Locales
+- **Ministère des Sports** : données de 3,5 millions de foyers compromises 
+  via le dispositif Pass'Sport
+- **Eurofiber** : un seul opérateur compromis → 10 000 organisations 
+  impactées en cascade (Orange, SNCF, Air France, Carrefour...)
+
+## Ce que j'ai appris
+Ces attaques montrent que les **prestataires et fournisseurs** sont devenus 
+des portes d'entrée privilégiées (attaques dites "supply chain"). 
+Compromettre un seul fournisseur peut paralyser des milliers d'organisations.
+En tant que futur technicien SISR, cela souligne l'importance de surveiller 
+non seulement son propre réseau, mais aussi les accès tiers.
+
+## Lien avec le BTS SIO SISR
+- Gestion des accès et des droits (principe du moindre privilège)
+- Importance des sauvegardes et plans de reprise d'activité (PRA)
+- Sensibilisation des utilisateurs aux risques
+
+## Liens utiles
+- https://www.cert.ssi.gouv.fr
+- https://www.cybermalveillance.gouv.fr
