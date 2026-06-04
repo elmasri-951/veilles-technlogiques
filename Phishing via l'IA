@@ -1,0 +1,50 @@
+# Phishing boosté par l'IA : la menace principale de 2025
+
+## Date de veille
+Juin 2025
+
+## Sources
+- spycloud.com — https://spycloud.com/newsroom/phishing-is-the-leading-cause-of-ransomware-attacks-in-2025/
+- scienceline.net — https://www.scienceline.net/phishing-2025-les-nouvelles-techniques-dattaque-et-comment-sen-proteger/
+
+## Résumé
+Le **phishing** est devenu en 2025 la première cause de ransomware, 
+en hausse de 10 points par rapport à 2024.
+
+### C'est quoi le phishing ?
+Une technique qui consiste à se faire passer pour une entité de confiance 
+(banque, employeur, Microsoft...) pour voler des identifiants ou 
+faire exécuter un malware.
+
+### Ce qui a changé en 2025 :
+- **Phishing par IA** : les emails frauduleux sont générés automatiquement 
+  par IA → plus de fautes d'orthographe, ton professionnel, contenu 
+  personnalisé selon la cible
+- **Deepfakes vocaux** : des attaquants clonent la voix d'un manager 
+  pour demander par téléphone un virement ou un code MFA
+- **Phishing-as-a-Service (PhaaS)** : des kits clé en main sont vendus 
+  sur le darknet. Même un débutant peut lancer une campagne de phishing 
+  (ex : Tycoon 2FA, Darcula)
+- **Contournement du MFA** : les attaques "AitM" (Attacker-in-the-Middle) 
+  interceptent le token d'authentification en temps réel, rendant 
+  la double authentification moins fiable
+
+### Pièces jointes malveillantes en 2025 :
+Les malwares se cachent dans des fichiers **PDF ou ZIP** hébergés sur 
+des plateformes légitimes (OneDrive, Dropbox) pour passer les filtres 
+antivirus.
+
+## Ce que j'ai appris
+La menace principale n'est plus technique mais **humaine**. 95% des 
+cyberattaques réussies impliquent une erreur humaine. La sensibilisation 
+des utilisateurs est donc aussi importante que les outils techniques.
+
+## Lien avec le BTS SIO SISR
+- Support utilisateurs : savoir expliquer comment repérer un phishing
+- Filtrage réseau : mise en place de proxys et filtres d'emails
+- Authentification : limites du MFA et solutions alternatives (clés FIDO2)
+
+## Liens utiles
+- https://www.phishing-initiative.fr — signaler un phishing en France
+- https://haveibeenpwned.com — vérifier si son email a été compromis
+- https://www.cybermalveillance.gouv.fr — ressources officielles ANSSI
