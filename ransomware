@@ -1,0 +1,48 @@
+# Le ransomware en 2025 : comment ça marche ?
+
+## Date de veille
+Juin 2025
+
+## Sources
+- gridinsoft.com — https://fr.gridinsoft.com/article/ransomware
+- admicom.fr — https://www.admicom.fr/nouvelles-menaces-cyber-en-2025-phishing-ransomwares-et-attaques-emergentes/
+
+## Résumé
+Un **ransomware** (ou rançongiciel) est un logiciel malveillant qui chiffre 
+les données d'une victime et exige une rançon pour les déchiffrer.
+
+### Comment les attaquants entrent dans un système en 2025 :
+| Vecteur d'entrée | Part des attaques |
+|---|---|
+| Exploitation de failles (VPN, logiciels non mis à jour) | 32% |
+| Identifiants volés via phishing ou malware | 23% |
+| Emails de phishing | 18% |
+
+### Nouvelles tendances 2025 :
+- **Ransomware "fileless"** : le malware n'écrit rien sur le disque, 
+  il utilise des processus Windows légitimes (PowerShell, WMI) pour agir 
+  → très difficile à détecter
+- **Double extorsion** : les attaquants chiffrent ET volent les données. 
+  Même avec une sauvegarde, la victime est menacée de publication
+- **IA dans les attaques** : les emails de phishing sont rédigés par IA, 
+  rendus très convaincants et personnalisés
+
+### Groupes actifs en 2025 :
+- **DragonForce** : +212% d'attaques en juin 2025
+- **Medusa** : cible les établissements publics (écoles, mairies)
+- **LockBit** : l'un des plus actifs depuis plusieurs années
+
+## Ce que j'ai appris
+En 2025, seulement 49% des victimes paient la rançon (contre 70% en 2024), 
+car payer ne garantit pas de récupérer ses données. La meilleure défense 
+reste la prévention : mises à jour régulières, sauvegardes isolées (règle 3-2-1), 
+et sensibilisation des utilisateurs.
+
+## Lien avec le BTS SIO SISR
+- Administration des systèmes : importance des mises à jour (patching)
+- Politique de sauvegarde : règle 3-2-1 (3 copies, 2 supports, 1 hors-site)
+- Gestion des droits utilisateurs pour limiter la propagation
+
+## Liens utiles
+- https://www.nomoreransom.org/fr — outil pour déchiffrer sans payer
+- https://cve.mitre.org — base de données des failles connues
